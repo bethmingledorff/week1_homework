@@ -1,8 +1,5 @@
-Labwork Part 2 - Git Practice
-
-Please check out a new branch "your_name".
-Fill out the information for the labwork.
-Push up your changes and open a new pull request.
-If you have any issues, please contact me or Casey!
-
-
+Name: Beth
+Expectation: A job that I love!!
+Occupation: Massage Therapist
+Interesting Fact: I worked for the Oprah Winfrey Show 
+App idea: An app that tests reaction time and can shut down your car so you can't drive drunk 
